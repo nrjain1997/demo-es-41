@@ -14,7 +14,7 @@ urllib3==1.26.18
 certifi==2024.7.4
 cryptography==43.0.1
 aiohttp==3.9.4
-gitpython==3.1.41
+gitpython==3.1.44
 pycryptodomex==3.19.1
 python-docx
 pandas==1.5.3
